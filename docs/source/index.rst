@@ -4,3 +4,8 @@ Website: `https://abc8.blue/ <https://abc8.blue/>`
 Email: info@abc8.blue
 Phone: 0877693557
 #abc8, #abc8_blue, #nha_cai_abc8, #abc8_casino
+
+
+
+It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
+and offers a *simple* and *intuitive* API.
